@@ -1,0 +1,14 @@
+
+opython:S1179"RRename this parameter "D_high" to match the regular expression ^[_a-z][a-z0-9_]*$.(κµΘ,8λθƒδ§1
+npython:S1179"QRename this parameter "D_low" to match the regular expression ^[_a-z][a-z0-9_]*$.(κµΘ,8λθƒδ§1
+zpython:S117G"WRename this local variable "D_high" to match the regular expression ^[_a-z][a-z0-9_]*$.(Υ‡ώ€ϋÿÿÿÿ8λθƒδ§1
+tpython:S117F"VRename this local variable "D_low" to match the regular expression ^[_a-z][a-z0-9_]*$.(¦Αόγ8λθƒδ§1
+Npython:S1481R"/Replace unused local variable "w_low" with "_".(ο“«8υθƒδ§1
+Lpython:S1481Y"-Remove the unused local variable "count_y_1".(¬Ίδή8υθƒδ§1
+Ppython:S1481R"1Replace unused local variable "theta_1" with "_".(ο“«8υθƒδ§1
+rpython:S3776C"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(έ¦'8υθƒδ§1
+{python:S117"WRename this local variable "D_high" to match the regular expression ^[_a-z][a-z0-9_]*$.(Υ‡ώ€ϋÿÿÿÿ8υθƒδ§1
+upython:S117"VRename this local variable "D_low" to match the regular expression ^[_a-z][a-z0-9_]*$.(¦Αόγ8υθƒδ§1
+Npython:S1481“")Remove the unused local variable "x_lim".(ΓΆ…νϋÿÿÿÿ8υθƒδ§1
+Ppython:S1481•"0Replace unused local variable "w_high" with "_".(ΈΔ°¶8υθƒδ§1
+Qpython:S1481•"1Replace unused local variable "theta_2" with "_".(ΈΔ°¶8υθƒδ§1

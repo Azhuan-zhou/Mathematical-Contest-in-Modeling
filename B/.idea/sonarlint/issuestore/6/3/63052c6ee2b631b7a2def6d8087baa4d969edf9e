@@ -1,0 +1,7 @@
+
+zpython:S1175"\Rename this local variable "value_flagX" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùÃı¡8ŞÉÊè§1
+zpython:S1176"\Rename this local variable "value_flagY" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ìû’“8ŞÉÊè§1
+qpython:S1542"MRename function "returnX" to match the regular expression ^[a-z_][a-z0-9_]*$.(¹³÷åÿÿÿÿÿ8ŞÉÊè§1
+xpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(¹³÷åÿÿÿÿÿ8ŞÉÊè§1
+=python:S125"Remove this commented out code.(¦ÇØô8ŞÉÊè§1
+Dpython:S6660-"%Use the `isinstance()` function here.(Í¢×Â8ŞÉÊè§1
